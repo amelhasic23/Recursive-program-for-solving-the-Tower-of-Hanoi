@@ -1,0 +1,7 @@
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\bin\Debug\Rekurzivni program za rešavanje Hanojske kule.exe.config
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\bin\Debug\Rekurzivni program za rešavanje Hanojske kule.exe
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\bin\Debug\Rekurzivni program za rešavanje Hanojske kule.pdb
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\obj\Debug\Rekurzivni program za rešavanje Hanojske kule.csproj.AssemblyReference.cache
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\obj\Debug\Rekurzivni program za rešavanje Hanojske kule.csproj.CoreCompileInputs.cache
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\obj\Debug\Rekurzivni program za rešavanje Hanojske kule.exe
+F:\Rekurzivni program za rešavanje Hanojske kule\Rekurzivni program za rešavanje Hanojske kule\obj\Debug\Rekurzivni program za rešavanje Hanojske kule.pdb
